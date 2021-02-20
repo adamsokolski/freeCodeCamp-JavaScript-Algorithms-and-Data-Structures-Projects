@@ -2,13 +2,13 @@
 
 I will store here my solutions to 5 final JavaScript projects to earn the **JavaScript Algorithms and Data Structures certification**.
 
-## 19.02.2021
+## 19.02.2021 - Day 7
 
 1. [palindromeChecker.js](./palindromeChecker.js) ✅
 2. [firstRomanNumeralConverter.js](./firstRomanNumeralConverter.js) ✅
    [secondRomanNumeralConverter.js](./secondRomanNumeralConverter.js) ✅
 
-## 20.02.2021
+## 20.02.2021 - Day 8
 
 3. [caesarsCipher.js](./caesarsCipher.js)
 4. [telephoneNumberValidator.js](./telephoneNumberValidator.js)
